@@ -115,3 +115,5 @@ elif choose == 3:
   print("Norse Power",Camry.Horse_Power)
   print("Price",Camry.Price)
   
+else:
+  print("Chosee from givenn!")
